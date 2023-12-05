@@ -1,5 +1,8 @@
 # React + Vite
 
+![imc2](https://github.com/lucimaralemes5/calculadora-imc/assets/110794157/033341c7-782b-4143-9a45-e1e5ab4815e7)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
